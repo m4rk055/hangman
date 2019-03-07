@@ -1,5 +1,6 @@
 .bloop
 .metals
+target/
 project/.bloop
 project/project
 project/target
